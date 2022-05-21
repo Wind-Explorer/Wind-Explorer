@@ -1,10 +1,10 @@
-# "There is no place like `127.0.0.1`."
+# "There is no place like `  127.0.0.1 `."
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I am a student currently studying in school, preparing for graduation examination.
+I am a student currently studying in school, aiming to score good grades.
 
 Equipped with knowledge of basic syntaxes and formatting for [Python][2] and [Swift][3], extensive knowledge with GNU/[Linux][4].
 
