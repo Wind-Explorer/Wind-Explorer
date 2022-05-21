@@ -4,6 +4,8 @@
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=Wind-Explorer&hide=stars&show_icons=true&theme=merko)](wind-explorer)
+
 I am a student currently studying in school, aiming to score good grades.
 
 Equipped with knowledge of basic syntaxes and formatting for [Python][2] and [Swift][3], extensive knowledge with GNU/[Linux][4].
