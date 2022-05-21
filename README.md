@@ -8,11 +8,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&theme=calm)
 
-I am a student currently studying in school, aiming to score good grades.
+📖 I am a student currently studying in school, aiming to score good grades.
 
-Equipped with knowledge of basic syntaxes and formatting for [Python][2] and [Swift][3], extensive knowledge with GNU/[Linux][4].
+🧠 Equipped with knowledge of basic syntaxes and formatting for [Python][2] and [Swift][3], extensive knowledge with GNU/[Linux][4].
 
-Wishes to keep learning Python and Swift, preparing to take a look at [HTML][5] & [CSS][6] for web-development and [SwiftUI][7] for proper front-end app development. Aiming to work in [IT-related][8] industries.
+✨ Wishes to keep learning Python and Swift, preparing to take a look at [HTML][5] & [CSS][6] for web-development and [SwiftUI][7] for proper front-end app development.
+
+👨‍💻 Aiming to work in [IT-related][8] industries.
 
 
 [2]:https://en.wikipedia.org/wiki/Python_(programming_language)
