@@ -1,4 +1,19 @@
+<div align="center">
+  <a href="https://github.com/Wind-Explorer">
+    <img src="images/profile.png" alt="Logo" width="130" height="130">
+  </a>
+
+  <h1 align="center">Hello, I'm Adam C!</h1>
+
+  <p align="center">
+    ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
+    <br />
+    <br />
+  </p>
+</div>
+
 # "There is no place like `  127.0.0.1 `."
+
 
 Knows my way around these operating systems:
 
