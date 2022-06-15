@@ -9,6 +9,9 @@
     ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
     <br />
     <br />
+    <br />
+    <br />
+    <br />
   </p>
 </div>
 
