@@ -11,24 +11,12 @@
   <img src="https://dsm01pap004files.storage.live.com/y4mXaOI8z_FoCCdI3Um8yqMXg4SsMMGXhRs-odTHeUjAjJyQYLmHdHJyr7RA1dxedWT32k2c2tS7A6bJLXE4J7BnwmuUyzA_SUbEFHoAIPtRAJY0yNcVs5wecav3uMQQUdboCB8p3Eq0zFrlHAhFVLPromC4FXouBShSn1qklpo4hdleRqVcTbbsnJKegRj0bZj?width=4000&height=3000&cropmode=none"/>
   
   
-XCode Project Window             |  Final Product
-:-------------------------:|:-------------------------:
-![](images/GTF1.png)  |  ![](images/GTF2.png)
-  
-  
- <p float="left">
-  <img src="images/Moonshot2.png" width="260" />
-  <img src="images/Moonshot1.png" width="745" /> 
-</p>
- <p float="left">
-  <img src="images/iExpense1.png" width="745" />
-  <img src="images/iExpense2.png" width="260" /> 
-</p>
- <p float="left">
-  <img src="images/BR2.png" width="260" />
-  <img src="images/BR1.png" width="745" /> 
-</p>
-</div>
+XCode Project Window|Final Product
+:-:|:-:
+![](images/GTF1.png)|![](images/GTF2.png)
+![](images/Moonshot1.png)|![](images/Moonshot2.png)
+![](images/iExpense1.png)|![](images/iExpense2.png)
+![](images/BR1.png)|![](images/BR2.png)
 
 # "There is no place like `  127.0.0.1 `."
 
