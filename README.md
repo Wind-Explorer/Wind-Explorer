@@ -1,18 +1,19 @@
 <div align="center">
   <a href="https://github.com/Wind-Explorer">
-    <img src="images/profile.png" alt="Logo" width="130" height="130">
+    <img src="images/profile.png" alt="Logo" width="130" height="130", cropmode="circle">
   </a>
 
   <h1 align="center">Hello, I'm Adam C!</h1>
 
   <p align="center">
     ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
   </p>
+  <img src="https://dsm01pap004files.storage.live.com/y4md00K0StPui2hYBEbNP6jP4uAmRf2d9LDH8CMZ1ldAqpSXURNegbLpiY0UWbc0y6q7LKCTYp3pz2ELulupb3Pb2NLgct51PTzfVKpa9_5yv8h-Vd1YE9GfbceN1f2QGC-VU4vjYBusmyZZCCYKv-pVjcFYXyGYEUXQiYloCzO-WrzZkLTKkdz8SZx65_B5A8Z?width=3000&height=4000&cropmode=none" width="300" height="400" />
+  <br />
+   <br />
+   <br />
+   <br />
+   <br />
 </div>
 
 # "There is no place like `  127.0.0.1 `."
