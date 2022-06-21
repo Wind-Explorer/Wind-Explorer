@@ -8,7 +8,7 @@
   <p align="center">
     ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
   </p>
-  <img src="https://dsm01pap004files.storage.live.com/y4md00K0StPui2hYBEbNP6jP4uAmRf2d9LDH8CMZ1ldAqpSXURNegbLpiY0UWbc0y6q7LKCTYp3pz2ELulupb3Pb2NLgct51PTzfVKpa9_5yv8h-Vd1YE9GfbceN1f2QGC-VU4vjYBusmyZZCCYKv-pVjcFYXyGYEUXQiYloCzO-WrzZkLTKkdz8SZx65_B5A8Z?width=3000&height=4000&cropmode=none" width="300" height="400" />
+  <img src="https://dsm01pap004files.storage.live.com/y4mXaOI8z_FoCCdI3Um8yqMXg4SsMMGXhRs-odTHeUjAjJyQYLmHdHJyr7RA1dxedWT32k2c2tS7A6bJLXE4J7BnwmuUyzA_SUbEFHoAIPtRAJY0yNcVs5wecav3uMQQUdboCB8p3Eq0zFrlHAhFVLPromC4FXouBShSn1qklpo4hdleRqVcTbbsnJKegRj0bZj?width=660&height=495&cropmode=none" width="660" height="495" />
   <br />
    <br />
    <br />
