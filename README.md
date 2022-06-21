@@ -9,10 +9,13 @@
     ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
   </p>
   <img src="https://dsm01pap004files.storage.live.com/y4mXaOI8z_FoCCdI3Um8yqMXg4SsMMGXhRs-odTHeUjAjJyQYLmHdHJyr7RA1dxedWT32k2c2tS7A6bJLXE4J7BnwmuUyzA_SUbEFHoAIPtRAJY0yNcVs5wecav3uMQQUdboCB8p3Eq0zFrlHAhFVLPromC4FXouBShSn1qklpo4hdleRqVcTbbsnJKegRj0bZj?width=4000&height=3000&cropmode=none"/>
-<p float="left">
-  <img src="images/GTF1.png" width="745" />
-  <img src="images/GTF2.png" width="260" /> 
-</p>
+  
+  
+XCode Project Window             |  Final Product
+:-------------------------:|:-------------------------:
+![](images/GTF1.png)  |  ![](images/GTF2.png)
+  
+  
  <p float="left">
   <img src="images/Moonshot2.png" width="260" />
   <img src="images/Moonshot1.png" width="745" /> 
