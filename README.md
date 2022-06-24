@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/Wind-Explorer">
-    <img src="images/profile.png" alt="Logo" width="130" height="130", cropmode="circle">
-  </a>
 
   <h1 align="center">🙋‍♂️ Hello, I'm Adam C!</h1>
 
