@@ -1,10 +1,8 @@
-<div align="center">
+<h1 align="left">🙋‍♂️ Hello, I'm Adam C!</h1>
 
-  <h1 align="center">🙋‍♂️ Hello, I'm Adam C!</h1>
-
-  <p align="center">
-    ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
-  </p>
+<p align="left">
+  ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
+</p>
 
  
 # Have a look at what I've been working on 👨‍💻
