@@ -1,5 +1,5 @@
-![](images/light.png#gh-light-mode-only)
-![](images/dark.png#gh-dark-mode-only)
+![epic image for introducing myself (light mode)](images/light.png#gh-light-mode-only)
+![epic image for introducing myself (dark mode)](images/dark.png#gh-dark-mode-only)
 
 <b align="left">
   ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
