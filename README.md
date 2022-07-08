@@ -15,7 +15,7 @@ XCode Project Window|Final Product
 [![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
 [![](images/Moonshot1.png)](https://github.com/Wind-Explorer/Moonshot)|[![](images/Moonshot2.png)](https://github.com/Wind-Explorer/Moonshot)
 [![](images/iExpense1.png)](https://github.com/Wind-Explorer/iExpense)|[![](images/iExpense2.png)](https://github.com/Wind-Explorer/iExpense)
-[![](images/BR1.png)](https://github.com/Wind-Explorer/BetterRest)|[![](images/BR2.png)](https://github.com/Wind-Explorer/BetterRest)![image](https://user-images.githubusercontent.com/66894537/177954591-745f702d-6d62-4f25-b494-30493d1a6c4d.png)
+[![](images/BR1.png)](https://github.com/Wind-Explorer/BetterRest)|[![](images/BR2.png)](https://github.com/Wind-Explorer/BetterRest)
 
 
 # "There is no place like `  127.0.0.1 `."
