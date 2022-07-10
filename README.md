@@ -11,6 +11,7 @@ Click on any of them to open their respective repository
   
 XCode Project Window|Final Product
 :-:|:-:
+[![](images/LX@D.png)](https://github.com/Wind-Explorer/LearnX)|[![](images/LX@i.png)](https://github.com/Wind-Explorer/LearnX)
 [![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
 [![](images/Moonshot1.png)](https://github.com/Wind-Explorer/Moonshot)|[![](images/Moonshot2.png)](https://github.com/Wind-Explorer/Moonshot)
 [![](images/iExpense1.png)](https://github.com/Wind-Explorer/iExpense)|[![](images/iExpense2.png)](https://github.com/Wind-Explorer/iExpense)
