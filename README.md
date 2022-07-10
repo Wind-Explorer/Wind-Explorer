@@ -1,5 +1,4 @@
-![epic image for introducing myself (light mode)](images/light.png#gh-light-mode-only)
-![epic image for introducing myself (dark mode)](images/dark.png#gh-dark-mode-only)
+<h1>👋 Hello world! I am <i>Adam C</i></h1>
 
 <b align="left">
   ✨ A tech enthusiast having adequate experience with linux, learning to build iOS apps
