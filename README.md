@@ -7,7 +7,7 @@
  
 # Have a look at what I've been working on 👨‍💻
  
-Click on any of them to open their respective repository
+Click on the images for more details
   
 XCode Project Window|Final Product
 :-:|:-:
