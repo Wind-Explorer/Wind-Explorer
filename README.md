@@ -50,7 +50,7 @@ Takes advantage of these tools:
 
   🧠 Equipped with knowledge of basic syntaxes and formatting for [Python][2] and enough knowledge for building real iOS apps with [Swift][3] and [SwiftUI][7], extensive knowledge with GNU/[Linux][4].
 
-  ✨ Wishes to keep learning Python and Swift, currently learning Dart for Flutter to make cross-platform app development a reality and take deeper dives into [SwiftUI][7] for quality iOS app development.
+  ✨ Wishes to keep learning Python and Swift, currently learning [Dart][9] for [Flutter][10] to make cross-platform app development a reality and take deeper dives into [SwiftUI][7] for quality iOS app development.
 
   👨‍💻 Aiming to work in [IT-related][8] industries.
 
@@ -63,6 +63,8 @@ Takes advantage of these tools:
 [6]:https://en.wikipedia.org/wiki/CSS
 [7]:https://developer.apple.com/xcode/swiftui/
 [8]:https://en.wikipedia.org/wiki/Computer_security
+[9]:https://www.dart.dev
+[10]:https://www.flutter.dev
 
 <!---
 Wind-Explorer/Wind-Explorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
