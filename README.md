@@ -6,15 +6,13 @@
 
  
 # Have a look at what I've been working on 👨‍💻
- 
-Click on the images for more details
 
-Windows App(s)
+Lessify Music Fetcher Tool (click to download)
 :-:
 [![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe)
 
   
-Xcode Project Window|iOS App(s)
+Xcode Project Window (Click to view repository)|iOS App(s)
 :-:|:-:
 [![](images/LX@D.png)](https://github.com/Wind-Explorer/LearnX)|[![](images/LX@i.png)](https://github.com/Wind-Explorer/LearnX)
 [![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
