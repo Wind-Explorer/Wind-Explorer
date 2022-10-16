@@ -14,7 +14,7 @@ Windows App(s)
 [![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe)
 
   
-Xcode Project Window|iOS Apps
+Xcode Project Window|iOS App(s)
 :-:|:-:
 [![](images/LX@D.png)](https://github.com/Wind-Explorer/LearnX)|[![](images/LX@i.png)](https://github.com/Wind-Explorer/LearnX)
 [![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
