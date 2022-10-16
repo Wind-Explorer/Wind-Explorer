@@ -7,7 +7,7 @@
  
 # Have a look at what I've been working on 👨‍💻
 
-Lessify Music Fetcher Tool (click to download)
+Lessify Music Fetcher Tool (Click to download)
 :-:
 [![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe)
 
