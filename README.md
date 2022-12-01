@@ -9,7 +9,7 @@
 
 Pikvey: The all-in-one anime wallpaper solution for the weebs.
 :-:
-[![](https://user-images.githubusercontent.com/66894537/204963694-08a52d1e-c75f-4449-a837-aad7c38c45d1.png)](https://github.com/Wind-Explorer/Pikvey-Release/tag/latest)
+[![](https://user-images.githubusercontent.com/66894537/204963694-08a52d1e-c75f-4449-a837-aad7c38c45d1.png)](https://github.com/Wind-Explorer/Pikvey-Release/release/latest)
 
 Lessify Music Fetching Tool (Click to download)
 :-:
