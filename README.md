@@ -25,7 +25,7 @@ Xcode Project Window (Click to view repository)|iOS App(s)
 [![](images/BR1.png)](https://github.com/Wind-Explorer/BetterRest)|[![](images/BR2.png)](https://github.com/Wind-Explorer/BetterRest)
 
 
-# "There is no place like `  127.0.0.1 `."
+# "There is no place like `127.0.0.1`."
 
 
 Knows my way around these operating systems:
@@ -49,9 +49,9 @@ Takes advantage of these tools:
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Wind-Explorer&hide=stars&show_icons=true&theme=calm)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=Wind-Explorer&hide=stars&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&theme=calm)-->
 
 
 
