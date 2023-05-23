@@ -16,7 +16,6 @@ Why did I learn 8 programming languages:
 - **Objective-C**: Native interaction with macOS services.
 - **Dart**: Required by Flutter framework to build cross-platform apps.
 - **Rust**: Hype for being the C++ replacement.
-*Everything* is going according to **plan**.
  
 <hr/>
 <!--  
