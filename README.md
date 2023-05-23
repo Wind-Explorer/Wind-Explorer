@@ -1,10 +1,25 @@
 <h1>👋 Hello world! I am <i>Adam C</i></h1>
 
-<b align="left">
-  ✨ A tech enthusiast having adequate experience with linux, learning to build apps
-</b>
+<h4 align="left">
+  ✨ A generic tech enthusiast trying to make apps
+</h4>
 
+<hr/>
+
+Why did I learn 8 programming languages:
+
+- **Python**: My starter language.
+- **Swift**: Building iPhone and Mac apps.
+- **C#**: For making native Windows apps.
+- **C**: To understand a command-line tool (displayplacer).
+- **C++**: Teach the neighbour's child.
+- **Objective-C**: Native interaction with macOS services.
+- **Dart**: Required by Flutter framework to build cross-platform apps.
+- **Rust**: Hype for being the C++ replacement.
+*Everything* is going according to **plan**.
  
+<hr/>
+<!--  
 # Have a look at what I've been working on 👨‍💻
 
 Pikvey: The all-in-one anime wallpaper solution for the weebs.
@@ -13,17 +28,17 @@ Pikvey: The all-in-one anime wallpaper solution for the weebs.
 
 Lessify Music Fetching Tool (Click to download)
 :-:
-[![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe)
+[![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe) -->
 
   
-Xcode Project Window (Click to view repository)|iOS App(s)
+<!-- Xcode Project Window (Click to view repository)|iOS App(s)
 :-:|:-:
 [![](images/LX@D.png)](https://github.com/Wind-Explorer/LearnX)|[![](images/LX@i.png)](https://github.com/Wind-Explorer/LearnX)
 [![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
 [![](images/Moonshot1.png)](https://github.com/Wind-Explorer/Moonshot)|[![](images/Moonshot2.png)](https://github.com/Wind-Explorer/Moonshot)
 [![](images/iExpense1.png)](https://github.com/Wind-Explorer/iExpense)|[![](images/iExpense2.png)](https://github.com/Wind-Explorer/iExpense)
 [![](images/BR1.png)](https://github.com/Wind-Explorer/BetterRest)|[![](images/BR2.png)](https://github.com/Wind-Explorer/BetterRest)
-
+ -->
 
 # "There is no place like `127.0.0.1`."
 
@@ -51,18 +66,6 @@ Takes advantage of these tools:
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=Wind-Explorer&hide=stars&show_icons=true&theme=calm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&theme=calm)-->
-
-
-
-  📖 I am a student currently studying in school, aiming to score good grades.
-
-  🧠 Equipped with knowledge of basic syntaxes and formatting for [Python][2] and enough knowledge for building real iOS apps with [Swift][3] and [SwiftUI][7], extensive knowledge with GNU/[Linux][4].
-
-  ✨ Wishes to keep learning Python and Swift, currently learning [Dart][9] for [Flutter][10] to make cross-platform app development a reality and take deeper dives into [SwiftUI][7] for quality iOS app development.
-  
-  🎉 Managed to scribble enough code to squeeze out a couple of desktop apps using [C#][11] and [XAML][12].
-
-  👨‍💻 Aiming to work in [IT-related][8] industries.
 
   
 
