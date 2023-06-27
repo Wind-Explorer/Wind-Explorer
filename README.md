@@ -6,7 +6,7 @@
 
 <hr/>
 
-Why did I learn 8 programming languages:
+Why did I learn 7 programming languages:
 
 - **Python**: My starter language.
 - **Swift**: Building iPhone and Mac apps.
