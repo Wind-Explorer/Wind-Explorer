@@ -13,7 +13,6 @@ Why did I learn 8 programming languages:
 - **C#**: For making native Windows apps.
 - **C**: To understand a command-line tool (displayplacer).
 - **C++**: Teach the neighbour's child.
-- **Objective-C**: Native interaction with macOS services.
 - **Dart**: Required by Flutter framework to build cross-platform apps.
 - **Rust**: Hype for being the C++ replacement.
  
