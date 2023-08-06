@@ -1,85 +1,160 @@
-<h1>👋 Hello world! I am <i>Adam C</i></h1>
-
-<h4 align="left">
-  ✨ A generic tech enthusiast trying to make apps
-</h4>
-
-<hr/>
-
-Why did I learn 7 programming languages:
-
-- **Python**: My starter language.
-- **Swift**: Building iPhone and Mac apps.
-- **C#**: For making native Windows apps.
-- **C**: To understand a command-line tool (displayplacer).
-- **C++**: Teach the neighbour's child.
-- **Dart**: Required by Flutter framework to build cross-platform apps.
-- **Rust**: Hype for being the C++ replacement.
- 
-<hr/>
-<!--  
-# Have a look at what I've been working on 👨‍💻
-
-Pikvey: The all-in-one anime wallpaper solution for the weebs.
-:-:
-[![](https://user-images.githubusercontent.com/66894537/204963694-08a52d1e-c75f-4449-a837-aad7c38c45d1.png)](https://github.com/Wind-Explorer/Pikvey-Release)
-
-Lessify Music Fetching Tool (Click to download)
-:-:
-[![](https://user-images.githubusercontent.com/66894537/196042554-8262dae7-248b-4ec8-a248-8aceb07e0761.png)](https://github.com/Wind-Explorer/File-Hosting-Repository/releases/download/Lessify-1.0.0/LessifySetup.exe) -->
-
-  
-<!-- Xcode Project Window (Click to view repository)|iOS App(s)
-:-:|:-:
-[![](images/LX@D.png)](https://github.com/Wind-Explorer/LearnX)|[![](images/LX@i.png)](https://github.com/Wind-Explorer/LearnX)
-[![](images/GTF1.png)](https://github.com/Wind-Explorer/Guess-the-Flag)|[![](images/GTF2.png)](https://github.com/Wind-Explorer/Guess-the-Flag)
-[![](images/Moonshot1.png)](https://github.com/Wind-Explorer/Moonshot)|[![](images/Moonshot2.png)](https://github.com/Wind-Explorer/Moonshot)
-[![](images/iExpense1.png)](https://github.com/Wind-Explorer/iExpense)|[![](images/iExpense2.png)](https://github.com/Wind-Explorer/iExpense)
-[![](images/BR1.png)](https://github.com/Wind-Explorer/BetterRest)|[![](images/BR2.png)](https://github.com/Wind-Explorer/BetterRest)
- -->
-
-# "There is no place like `127.0.0.1`."
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
 
 
-Knows my way around these operating systems:
 
-[![Arch](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://wiki.archlinux.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/monterey/)
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-Speaks these (computer) languages:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/wind-explorer">
+    <img src="images/profile.png" style="border-radius: 1000px;" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Wind_Explorer</h3>
+  <p align="center">
+    The three iq, two brain cells and one-and-only teenage organism
+    <br />
+    <a href="https://github.com/wind-explorer" target="_blank"><strong>Check out my website (coming soon) »</strong></a>
+    <br />
+      <div align="center">
+        <img src="https://img.shields.io/badge/Discord-Wind__Explorer-gray?labelColor=blue">
+        <img src="https://img.shields.io/badge/Location-East_Asia-gray?labelColor=darkgreen">
+        <img src="https://img.shields.io/badge/Gender-Male-gray?labelColor=purple">
+      </div>
+    <br />
+    <a href="#made-of">View my capabilities</a>
+    ·
+    <a href="https://github.com/wind-explorer">Get in touch</a>
+    ·
+    <a href="https://github.com/wind-explorer">Support me</a>
+  </p>
+</div>
 
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
+<!-- ABOUT THIS GUY -->
+## About This Guy
 
-Takes advantage of these tools:
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/rider/)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
-[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+I am Adam C, going by the name Wind_Explorer online.
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=Wind-Explorer&hide=stars&show_icons=true&theme=calm)
+I know quite a lot of things, including:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&theme=calm)-->
+* the correct steps to eating a double cheese burger 🍔
 
-  
+* how to fall asleep during History class 📖
 
-[2]:https://en.wikipedia.org/wiki/Python_(programming_language)
-[3]:https://en.wikipedia.org/wiki/Swift_(programming_language)
-[4]:https://en.wikipedia.org/wiki/Linux
-[5]:https://en.wikipedia.org/wiki/HTML
-[6]:https://en.wikipedia.org/wiki/CSS
-[7]:https://developer.apple.com/xcode/swiftui/
-[8]:https://en.wikipedia.org/wiki/Computer_security
-[9]:https://www.dart.dev
-[10]:https://www.flutter.dev
-[11]:https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[12]:https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
+* being able to kill a conversation within 3 seconds after starting it 🩵
 
-<!---
-Wind-Explorer/Wind-Explorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* and much more.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Made of
+<a name="made-of"></a>
+This section covers technical knowledge I am in posession of.
+
+#### Frameworks
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![SwiftUI][SwiftUI]][SwiftUI-url]
+[![Vue][Vue.js]][Vue-url]
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+#### GitHub Statistics
+![Wind-Explorer's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true)
+
+#### Top languages used
+![Wind-Explorer's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- PROJECTS -->
+## Projects From Me
+
+Below showcases some of my proudest inventions.
+
+### <a href="https://github.com/wind-explorer/lessify-release">Lessify</a>
+
+Spotify, but you pay less.
+
+<img src="https://user-images.githubusercontent.com/66894537/258631405-9d435d83-340d-4ce4-b013-c49b07d95cd3.png" width="700"/>
+
+### <a href="https://github.com/wind-explorer/GPause">GPause</a>
+
+A handy utility that lets you decide which app runs and which app sleeps.
+
+<img src="https://user-images.githubusercontent.com/66894537/258631480-3d171936-6489-4aac-b3b8-172519b768b7.png" width="700"/>
+
+### <a href="https://github.com/wind-explorer/Fisli">Fisli</a>
+
+Slice big files into smaller pieces (comes with an assembler)
+
+<img src="https://user-images.githubusercontent.com/66894537/258631948-a517964e-f379-4e6e-a153-3c81c3ec0cb9.png" width="700"/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what makes ~~my projects epic~~ the open source community such an amazing place to learn, inspire, and create. 
+
+Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make my projects better:
+
+### For the open-source projects
+please fork their repo and create a pull request.
+You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the respective project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### For the ones without source code
+Drop me an email or send me a direct message on Discord!
+I'm ready to hear your opinions at any time, no matter what it is.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
+
+Website: [COMING SOON](https://github.com/wind-explorer)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Here are the sources I used for this README.
+
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+* [markdown-badges](https://ileriayo.github.io/markdown-badges/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: images/profile.png
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[SwiftUI]: https://img.shields.io/badge/swiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+[SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
