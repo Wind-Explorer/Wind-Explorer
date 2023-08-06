@@ -130,8 +130,9 @@ I'm ready to hear your opinions at any time, no matter what it is.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
 <a name="contacts"></a>
+
+## Contact
 
 Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
 
