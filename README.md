@@ -131,7 +131,6 @@ I'm ready to hear your opinions at any time, no matter what it is.
 
 <!-- CONTACT -->
 ## Contact
-
 <a name="contacts"></a>
 
 Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
