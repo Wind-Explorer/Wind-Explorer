@@ -41,7 +41,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-I am Adam C, going by the name Wind_Explorer online.
+I am Adam C, going by the name Wind_Explorer online since late 2017.
 
 I know quite a lot of things, including:
 
@@ -49,7 +49,7 @@ I know quite a lot of things, including:
 
 * how to fall asleep during History class 📖
 
-* being able to kill a conversation within 3 seconds after starting it 🩵
+* getting distracted by small things and leaving insufficient time for real work 🩵
 
 * and much more.
 
