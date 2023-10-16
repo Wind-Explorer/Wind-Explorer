@@ -22,7 +22,7 @@
   <p align="center">
     The three iq, two brain cells and one-and-only teenage organism
     <br />
-    <a href="https://github.com/wind-explorer" target="_blank"><strong>Check out my website (coming soon) »</strong></a>
+<!--     <a href="https://github.com/wind-explorer" target="_blank"><strong>Check out my website (coming soon) »</strong></a> -->
     <br />
       <div align="center">
         <img src="https://img.shields.io/badge/Discord-Wind__Explorer-gray?labelColor=blue">
@@ -136,7 +136,7 @@ I'm ready to hear your opinions at any time, no matter what it is.
 
 Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
 
-Website: [COMING SOON](https://github.com/wind-explorer)
+<!--Website: [COMING SOON](https://github.com/wind-explorer)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
