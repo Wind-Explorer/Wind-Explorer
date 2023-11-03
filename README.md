@@ -21,58 +21,35 @@
   <h3 align="center">Wind_Explorer</h3>
   <p align="center">
     The three iq, two brain cells and one-and-only teenage organism
-    <br />
-<!--     <a href="https://github.com/wind-explorer" target="_blank"><strong>Check out my website (coming soon) »</strong></a> -->
-    <br />
       <div align="center">
         <img src="https://img.shields.io/badge/Discord-Wind__Explorer-gray?labelColor=blue">
         <img src="https://img.shields.io/badge/Location-East_Asia-gray?labelColor=darkgreen">
         <img src="https://img.shields.io/badge/Gender-Male-gray?labelColor=purple">
       </div>
-    <br />
-    <a href="#made-of">View my capabilities</a>
-    ·
-    <a href="#contacts">Get in touch</a>
   </p>
 </div>
 
-<!-- ABOUT THIS GUY -->
-## About This Guy
+<!-- ABOUT THIS FELLA -->
+## About This Fella
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-I am Adam C, going by the name Wind_Explorer online since late 2017.
+I am Adam C, going by the username Wind_Explorer online since late 2017.
 
-I know quite a lot of things, including:
-
-* the correct steps to eating a double cheese burger 🍔
-
-* how to fall asleep during History class 📖
-
-* getting distracted by small things and leaving insufficient time for real work 🩵
-
-* and much more.
+I write all sorts of code, in the hope for a change to the society for the better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Made of
-<a name="made-of"></a>
-This section covers technical knowledge I am in posession of.
-
-#### Frameworks
-
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![SwiftUI][SwiftUI]][SwiftUI-url]
 [![Vue][Vue.js]][Vue-url]
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-#### GitHub Statistics
 ![Wind-Explorer's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true)
 
-#### Top languages used
 ![Wind-Explorer's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
