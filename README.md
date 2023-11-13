@@ -111,7 +111,7 @@ I'm ready to hear your opinions at any time, no matter what it is.
 
 ## Contact
 
-Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
+Adam C - [wind_explorer on Discord](https://discord.com/channels/@me/609031132838887434) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
 
 <!--Website: [COMING SOON](https://github.com/wind-explorer)-->
 
