@@ -80,32 +80,6 @@ Slice big files into smaller pieces (comes with an assembler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what makes ~~my projects epic~~ the open source community such an amazing place to learn, inspire, and create. 
-
-Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make my projects better:
-
-### For the open-source projects
-please fork their repo and create a pull request.
-You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the respective project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### For the ones without source code
-Drop me an email or send me a direct message on Discord!
-I'm ready to hear your opinions at any time, no matter what it is.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 <a name="contacts"></a>
 
