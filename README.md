@@ -20,7 +20,7 @@
   </a>
   <h3 align="center">Wind_Explorer</h3>
   <p align="center">
-    The three iq, two brain cells and one-and-only teenage organism
+    Your friendly neighbour that happens to write code
       <div align="center">
         <img src="https://img.shields.io/badge/Discord-Wind__Explorer-gray?labelColor=blue">
         <img src="https://img.shields.io/badge/Location-East_Asia-gray?labelColor=darkgreen">
