@@ -68,7 +68,7 @@ Slice big files into smaller pieces (comes with an assembler)
 
 ## Contact
 
-Adam C - [wind_explorer on Discord](https://discord.com/channels/@wind_explorer) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
+Adam C - [wind_explorer on Discord](https://discord.com/channels/@me/1130395844156346398) - <a href="mailto:windexplorer@outlook.com">windexplorer@outlook.com</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
