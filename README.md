@@ -42,9 +42,31 @@ and the story continues...
 [![Vue][Vue.js]][Vue-url]
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
-![Wind-Explorer's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true#gh-light-mode-only)![Wind-Explorer's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true&theme=cobalt"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true" />
+</picture>
 
-![Wind-Explorer's Top languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468#gh-light-mode-only)![Wind-Explorer's Top languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468&theme=dark#gh-dark-mode-only)
+<br>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468&theme=cobalt"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468" />
+</picture>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
