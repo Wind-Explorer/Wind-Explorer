@@ -44,7 +44,7 @@ and the story continues...
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true&theme=cobalt"
+    srcset="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -58,7 +58,7 @@ and the story continues...
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468&theme=cobalt"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
