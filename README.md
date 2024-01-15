@@ -1,6 +1,6 @@
 ### 👋 Здравствуйте!
 this is my GitHub profile - welcome<br>
-此乃在下 GitHub 主页 - 欢迎<br>
+此乃在下 GitHub 主页 - 欢迎光临<br>
 это мой ГитХаб профиль - добро пожаловать
 <br><br>
 
