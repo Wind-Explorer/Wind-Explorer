@@ -1,22 +1,22 @@
-### 👋 Здравствуй!
-this is my GitHub profile - welcome<br>
-此乃在下 GitHub 主页 - 欢迎光临<br>
-это мой ГитХаб профиль - добро пожаловать
+### 👋 здравствуй!
+🇬🇧 this is my GitHub profile - welcome<br>
+🇨🇳 此乃在下 GitHub 主页 - 欢迎光临<br>
+🇷🇺 это мой GitHub профиль - добро пожаловать
 <br><br>
 
-### 💆‍♂️ A bit about myself
+### 💆‍♂️ a bit about myself
 - currently studying in school
 - fan of authoring compiler-comprehensible essays of computer instructions
 <br>
 
-### 💻 My currently used platforms
+### 💻 my currently used platforms
 [![macOS](https://img.shields.io/badge/macOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-197fc7?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
 [![iOS](https://img.shields.io/badge/iOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 <br><br>
 
-### 🌱 Programming Languages
+### 🌱 programming languages
 ![C#](https://img.shields.io/badge/-C%23-9264d5?style=flat-square&logo=C%23&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-265DB2?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=Swift&logoColor=white)
@@ -25,7 +25,7 @@ this is my GitHub profile - welcome<br>
 ![Dart](https://img.shields.io/badge/-Dart-0B458B?style=flat-square&logo=dart&logoColor=white)
 <br><br>
 
-### 🔢 Numbers
+### 🔢 numbers
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wind-explorer&show_icons=true&hide_title=true&theme=dracula"
