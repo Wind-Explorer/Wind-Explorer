@@ -11,9 +11,9 @@
 
 ### 💻 my currently used platforms
 [![macOS](https://img.shields.io/badge/macOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![iOS](https://img.shields.io/badge/iOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 [![Windows](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-197fc7?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
-[![iOS](https://img.shields.io/badge/iOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 <br><br>
 
 ### 🌱 programming languages
