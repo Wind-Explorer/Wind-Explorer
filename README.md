@@ -42,6 +42,20 @@
 
 <picture>
   <source
+    srcset="https://streak-stats.demolab.com/?user=Wind-Explorer&show_icons=true&hide_title=true&theme=dracula&card_width=468"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Wind-Explorer&show_icons=true&hide_title=true&card_width=468"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=Wind-Explorer&show_icons=true&hide_title=true&card_width=468" />
+</picture>
+
+<br>
+
+<picture>
+  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
