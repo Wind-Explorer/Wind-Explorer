@@ -66,4 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Explorer&layout=compact&hide_title=true&card_width=468" />
 </picture>
 
-#### Last updated: 2404220421
+
+![](https://komarev.com/ghpvc/?username=wind-explorer)
+
+> dont question why there's so little profile views i just added it T-T
+
+#### Last updated: 2408142322
