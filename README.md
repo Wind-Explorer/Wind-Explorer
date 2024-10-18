@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=23&duration=6000&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=600&height=38&lines=Hello%2C+world!+You+have+discovered+a+programmer!!!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E5%8F%AA%E9%87%8E%E7%94%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%EF%BC%81%EF%BC%81%EF%BC%81;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!+%D0%A2%D1%8B+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B8+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0!!!"
+    srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=23&duration=6000&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=600&height=38&lines=Hello%2C+world!+You+have+discovered+a+programmist!!!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E5%8F%AA%E9%87%8E%E7%94%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%EF%BC%81%EF%BC%81%EF%BC%81;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!+%D0%A2%D1%8B+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B8+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0!!!"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -81,4 +81,4 @@
 
 > dont question why there's so little profile views i just added it T-T
 
-#### Last updated: 2410090118
+#### Last updated: 2410181338
