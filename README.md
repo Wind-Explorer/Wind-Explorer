@@ -16,14 +16,14 @@
 - comes from the east 🍚🧑‍🌾🌾
 - currently studying in school
 - fan of authoring compiler-comprehensible essays of computer instructions
-- made a website to show apps I made - [Adam's Showroom](https://adamcv.com)
+- got a domain to put stuff in it - [adamcv.com](https://adamcv.com)
 <br>
 
 ### 💻 my currently used platforms
 [![macOS](https://img.shields.io/badge/macOS%2015-4f4f4f?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![iOS](https://img.shields.io/badge/iOS%2018-4f4f4f?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-[![Windows](https://img.shields.io/badge/Windows%2011-0078d4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+[![Windows](https://img.shields.io/badge/WINDOWS%2011-0078d4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
+![Fedora](https://img.shields.io/badge/FEDORA-00A5FA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 <br><br>
 
 ### 🌱 programming languages
@@ -79,4 +79,4 @@
 
 ![](https://komarev.com/ghpvc/?username=wind-explorer)
 
-#### Last updated: 2411090837
+#### Last updated: 2502132217
