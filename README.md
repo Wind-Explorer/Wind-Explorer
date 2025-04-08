@@ -14,9 +14,10 @@
 
 ### 💆‍♂️ a bit about myself
 - comes from the east 🍚🧑‍🌾🌾
-- currently studying in school
+- a member of a tertiary education institution
 - fan of authoring compiler-comprehensible essays of computer instructions
-- got a domain to put stuff in it - [adamcv.com](https://adamcv.com)
+- got a domain to put stuff in it - [adamcv.com](https://adamcv.com) (work-in-progress without ETA 😃)
+- learning the русский язык for fun <3
 <br>
 
 ### 💻 my currently used platforms
